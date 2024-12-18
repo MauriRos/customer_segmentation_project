@@ -8,24 +8,6 @@ This project uses customer segmentation techniques through marketing analysis to
 - **Visualization**: Detailed plots like heatmaps, distributions, and 3D plots to explore different customer segments.
 - **Analysis**: Analysis of the key characteristics of the generated clusters, such as income, age, family size, education, etc.
 
-## Project Structure
-
-customer_segmentation_project/
-├── data/
-│   └── marketing_campaign.csv          # Dataset containing customer data
-├── images/
-│   ├── 2D_Scatter_Plot.png            # 2D scatter plot of segmentation 
-│   ├── 3D_Scatter_Plot.png            # 3D scatter plot of segmentation 
-│   ├── Elbow_Method.png               # Elbow method for determining the number of clusters 
-│   ├── Pairplot.png                   # Pairplot of feature relationships 
-│   └── ...                            # Other plots generated during the analysis
-├── notebooks/
-│   └── customer_segmentation_project.ipynb  # Notebook with data analysis 
-├── requirements.txt                  # Project dependencies
-└── README.md                         # This file
-
-
-
 ## Requirements
 
 To run this project, you need to install the following Python libraries:
