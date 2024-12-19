@@ -25,6 +25,7 @@ To run this project, you need to install the following Python libraries:
 
 - **Preprocessing and Clustering**:
   - `sklearn`
+  - `yellowbrick`
 
 - **Other Utilities**:
   - `google.colab`
